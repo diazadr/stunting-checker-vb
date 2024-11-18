@@ -1,0 +1,34 @@
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\bin\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.exe
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\bin\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.deps.json
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\bin\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\bin\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.dll
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\bin\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.pdb
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi_Pengecekan_Stunting.Form1.resources
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.AssemblyInfo.vb
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.dll
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\refint\Aplikasi Pengecekan Stunting.dll
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.pdb
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\ref\Aplikasi Pengecekan Stunting.dll
+C:\Users\LENOVO\source\repos\Aplikasi Pengecekan Stunting\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi_Pengecekan_Stunting.Resources.resources
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\bin\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.exe
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\bin\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.deps.json
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\bin\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\bin\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.dll
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\bin\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.pdb
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi_Pengecekan_Stunting.Form1.resources
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi_Pengecekan_Stunting.Resources.resources
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.AssemblyInfo.vb
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.dll
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\refint\Aplikasi Pengecekan Stunting.dll
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.pdb
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\Aplikasi Pengecekan Stunting.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Compressed\stunting-checker-vb-main\Aplikasi Pengecekan Stunting\obj\Debug\net7.0-windows\ref\Aplikasi Pengecekan Stunting.dll
