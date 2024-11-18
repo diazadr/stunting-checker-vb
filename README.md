@@ -21,10 +21,10 @@ Here are some screenshots demonstrating the application features:
 
 #### **Stunting Results**
 ![Stunting Example 1](https://github.com/user-attachments/assets/aae46756-e331-43b5-bf66-03fc697c7753)  
-![Stunting Example 2](https://github.com/user-attachments/assets/ed3c8451-14b3-4753-822c-bdbfb155419c)
+![Stunting Example 2](https://github.com/user-attachments/assets/7316f5b8-8bff-4e2b-a99c-fd368072283b)
 
 #### **Gigantism Results**
-![Gigantism Example](https://github.com/user-attachments/assets/7316f5b8-8bff-4e2b-a99c-fd368072283b)
+![Gigantism Example](https://github.com/user-attachments/assets/ed3c8451-14b3-4753-822c-bdbfb155419c)
 
 ---
 
